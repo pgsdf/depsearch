@@ -1,0 +1,9 @@
+/depsearch
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.vscode/
+.idea/
