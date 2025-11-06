@@ -94,4 +94,3 @@ depsearch -terms ./samples/wayland.terms -format paths /usr/ports \
 
 BSD 2-Clause. See [`LICENSE`](LICENSE).
 
-```
